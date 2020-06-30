@@ -1,0 +1,2 @@
+# Tidur
+Off all windows
